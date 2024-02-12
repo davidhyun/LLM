@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidhyun/LLM/HEAD)
 # LLM(LargeLanguageModel)
 
 > 2023년 기준 NLP(Natural Language Process) 모델의 거의 대부분은 Tranformer 아키텍처를 기반으로 하며, 모델의 용도에 따라 트랜스포머의 Encoder, Decoder를 개별 또는 통합 사용하는 추세
